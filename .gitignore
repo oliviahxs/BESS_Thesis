@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output directories (optional - uncomment if you don't want to track results)
+# figure_12_model_outputs/
+# fig_13_15_16_model_outputs/
+# fig_14_appendix_9_model_outputs/
+# fig_35_model_outputs/
+
+# Large data files (uncomment if you have large files you don't want to track)
+# *.csv
+# *.xlsxvenv310/
